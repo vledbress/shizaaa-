@@ -131,7 +131,7 @@ void Application::test_run()
 
     int count = 0;
     float spacing = 3.f;
-    int side = 5; // 10 x 10 x 10 = 1000
+    int side = 10; // 10 x 10 x 10 = 1000
     std::vector<Actor*> actors;
     std::vector<glm::mat4> models;
 
